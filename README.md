@@ -6,6 +6,6 @@ We should write any changes to the "project" in README (Prototype branch) so we 
 Thanks for understanding! :)
 
 Discord:
-Ryan - HoaxShark
+Ryan - Otium#9554
 
 Mango - Telcontar # 5286
