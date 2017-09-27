@@ -13,6 +13,6 @@ Mango - Telcontar # 5286
 
 Kevin - Krazykev # 3891
 
-Tomas - aLoi3#2756
+Tomas - aLoi3#2756 //we can't seem to add you, are you sure your username is correct?
 
 Sam - DiceMaster#1938
